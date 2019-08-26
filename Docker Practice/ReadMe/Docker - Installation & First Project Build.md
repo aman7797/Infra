@@ -7,7 +7,7 @@ I think you already have well settled Linux.
 
         sudo yum check-update
         curl -fsSL https://get.docker.com/ | sh
-    Expected output after the installation command2. Start the Docker
+    Expected output after the installation command. Start the Docker
 2. To start the docker 
 
         systemctl start docker
