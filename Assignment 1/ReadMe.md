@@ -26,7 +26,7 @@
 3. Now click **Manage Plugins**  
 ![ManagePlugin](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ManagePlugin.PNG)
 4. Check if Git is installed or not  
-![GitPlugin](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\GitPlugin.PNG)
+![GitPlugin](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/GitPlugin.PNG)
 If Git is not installed   
 a. Click on Available  
 b. Find Git and click the checkbox  
@@ -34,17 +34,17 @@ c. Press Install without restart
 
 ### Git and GitHub Integration with Jenkins
 1. Click on **New Item**  
-![ManageJenkins](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\ManageJenkins.PNG)
+![ManageJenkins](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ManageJenkins.PNG)
 2. Enter the Name as per the repositories and select **Freestyle Project**  
-![ItemName](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\ItemName.PNG)
+![ItemName](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ItemName.PNG)
 3. Select **Source Code Management** as **Git** and enter the Git **Repository URL**  
-![GitRepo](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\GitRepo.PNG)
+![GitRepo](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/GitRepo.PNG)
 4. Not require to change the any other settings
 5. Click Save
 
 ### Build Project
 1. Select the Project  
-![SelectProject](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\SelectProject.PNG)
+![SelectProject](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/SelectProject.PNG)
 Click on Infra
 2. Click on Build Now   
 ![BuildNow](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/BuildNow.PNG)
