@@ -51,6 +51,6 @@ Click on Infra
 A build will start 
 ![JenkinsHome](\img\BuildStart.PNG)
 3. Select the Build after it get completed you can check the logs of the build under Console Output
-![JenkinsHome](\img\ConsoleOutput.PNG)
+![JenkinsHome](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ConsoleOutput.PNG)
 
 
