@@ -17,16 +17,16 @@
     
         jenkins.exe start
 5. Now open http://localhost:8080/ in browser.
-![JenkinsHome](\img\InstallationJenkins.PNG)
+![InstallationJenkins](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/InstallationJenkins.PNG)
 
 ### Git Plugin - Installation
 1. Open Jenkins Dashboard
 2. Click on **Manage Jenkins** 
-![JenkinsHome](\img\ManageJenkins.PNG)
+![ManageJenkins](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ManageJenkins.PNG)
 3. Now click **Manage Plugins**
-![JenkinsHome](\img\ManagePlugin.PNG)
+![ManagePlugin](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ManagePlugin.PNG)
 4. Check if Git is installed or not
-![JenkinsHome](\img\GitPlugin.PNG)
+![GitPlugin](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\GitPlugin.PNG)
 If Git is not installed   
 a. Click on Available  
 b. Find Git and click the checkbox  
@@ -34,23 +34,23 @@ c. Press Install without restart
 
 ### Git and GitHub Integration with Jenkins
 1. Click on **New Item**
-![JenkinsHome](\img\ManageJenkins.PNG)
+![ManageJenkins](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\ManageJenkins.PNG)
 2. Enter the Name as per the repositories and select **Freestyle Project**
-![JenkinsHome](\img\ItemName.PNG)
+![ItemName](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\ItemName.PNG)
 3. Select **Source Code Management** as **Git** and enter the Git **Repository URL**
-![JenkinsHome](\img\GitRepo.PNG)
+![GitRepo](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\GitRepo.PNG)
 4. Not require to change the any other settings
 5. Click Save
 
 ### Build Project
 1. Select the Project
-![JenkinsHome](\img\SelectProject.PNG)
+![SelectProject](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\SelectProject.PNG)
 Click on Infra
 2. Click on Build Now
-![JenkinsHome](\img\BuildNow.PNG)
+![BuildNow](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/BuildNow.PNG)
 A build will start 
-![JenkinsHome](\img\BuildStart.PNG)
+![BuildStart](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\BuildStart.PNG)
 3. Select the Build after it get completed you can check the logs of the build under Console Output
-![JenkinsHome](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ConsoleOutput.PNG)
+![ConsoleOutput](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ConsoleOutput.PNG)
 
 
