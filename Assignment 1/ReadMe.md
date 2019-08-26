@@ -49,7 +49,7 @@ Click on Infra
 2. Click on Build Now   
 ![BuildNow](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/BuildNow.PNG)
 A build will start  
-![BuildStart](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\BuildStart.PNG)
+![BuildStart](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/BuildStart.PNG)
 3. Select the Build after it get completed you can check the logs of the build under Console Output  
 ![ConsoleOutput](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ConsoleOutput.PNG)
 
