@@ -21,11 +21,11 @@
 
 ### Git Plugin - Installation
 1. Open Jenkins Dashboard
-2. Click on **Manage Jenkins** 
+2. Click on **Manage Jenkins**   
 ![ManageJenkins](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ManageJenkins.PNG)
-3. Now click **Manage Plugins**
+3. Now click **Manage Plugins**  
 ![ManagePlugin](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ManagePlugin.PNG)
-4. Check if Git is installed or not
+4. Check if Git is installed or not  
 ![GitPlugin](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\GitPlugin.PNG)
 If Git is not installed   
 a. Click on Available  
@@ -33,24 +33,24 @@ b. Find Git and click the checkbox
 c. Press Install without restart
 
 ### Git and GitHub Integration with Jenkins
-1. Click on **New Item**
+1. Click on **New Item**  
 ![ManageJenkins](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\ManageJenkins.PNG)
-2. Enter the Name as per the repositories and select **Freestyle Project**
+2. Enter the Name as per the repositories and select **Freestyle Project**  
 ![ItemName](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\ItemName.PNG)
-3. Select **Source Code Management** as **Git** and enter the Git **Repository URL**
+3. Select **Source Code Management** as **Git** and enter the Git **Repository URL**  
 ![GitRepo](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\GitRepo.PNG)
 4. Not require to change the any other settings
 5. Click Save
 
 ### Build Project
-1. Select the Project
+1. Select the Project  
 ![SelectProject](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\SelectProject.PNG)
 Click on Infra
-2. Click on Build Now
+2. Click on Build Now   
 ![BuildNow](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/BuildNow.PNG)
-A build will start 
+A build will start  
 ![BuildStart](https://github.com/aman7797/Infra/blob/master/Assignment%201\img\BuildStart.PNG)
-3. Select the Build after it get completed you can check the logs of the build under Console Output
+3. Select the Build after it get completed you can check the logs of the build under Console Output  
 ![ConsoleOutput](https://github.com/aman7797/Infra/blob/master/Assignment%201/img/ConsoleOutput.PNG)
 
 
