@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Aman Lalpuria
+Main-Class: com.docker.project
