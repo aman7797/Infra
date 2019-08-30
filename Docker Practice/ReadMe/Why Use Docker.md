@@ -18,5 +18,14 @@ to reduce the work and to reduce the process of setuping up the project, we use 
 
 ## What is Docker
 
-Docker is a platform or ecosystem around creating and running container.
+Docker is a platform or ecosystem around creating and running **container**.
 
+### What is Container
+
+Container is an instance of an **image** runs a program.
+
+Container is a program with its own set of hardware resources.
+
+### What is Image
+
+Image is a single file with all the dependencies and config required to run a program.
