@@ -17,6 +17,12 @@ c. Check if `Virtualization` is marked enabled or not
 
     ![Virtualization](\img\Visualization.png)
 
+
+2. To download the latest version of Docker Toolbox, go to [Toolbox Releases](https://github.com/docker/toolbox/releases) and download the latest .exe file and install.
+
+
+
+
 ## Liuns Docker Installation
 
 1. Docker Installation
@@ -25,11 +31,13 @@ c. Check if `Virtualization` is marked enabled or not
 
         sudo yum check-update
         curl -fsSL https://get.docker.com/ | sh
-    Expected output after the installation command. Start the Docker
+    Expected output after the installation command. 
 2. To start the docker
 
         systemctl start docker
         systemctl enable docker
-    To check the status of the docker, if started or not 
+    Check the status of the docker, if started or not 
 
         systemctl status docker
+    
+    ![Docker Status](img\DockerStatus.png)
