@@ -1,0 +1,27 @@
+# Openshift Commands
+
+1. Login with Openshift using CLI
+
+        oc login -u centos -p centos
+    
+    In the above command centos after -u is username and after -p is password for the openshit.
+
+    ![OpenshiftLogin](img/OpenshiftLogin.png)
+
+2. To check with which user you are logged in
+
+        oc whoami
+
+    ![Logged User](img/whoami.png)
+
+3. To get token for the logged in user
+
+        oc whoami -t
+         
+    ![Get Token](img/whoami-t.png)
+
+4. To get the list of project 
+
+        curl -k https://10.20.14.183:8443/oapi/v1/projects -H 'Authorization:Bearer        X8qBNq4OHs2iCywX4McpRJ13nvOKDdI0yaMM5Tl0uX0'
+    
+    ![List of Projects](img/listofprojects.png)
